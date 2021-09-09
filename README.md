@@ -1,3 +1,5 @@
+markdown: kramdown
+
 # vite app published on cloudflare pages
 
 
@@ -10,6 +12,6 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 - [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
 
 ### how to...
-- [vite app](https://v3.vuejs.org/guide/installation.html#vite)
+- [vite app](https://v3.vuejs.org/guide/installation.html#vite){:target="_blank"}
 
 - edit files directly in browser by pressing . on your keyboard
