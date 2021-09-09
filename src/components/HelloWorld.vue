@@ -10,7 +10,9 @@ const count = ref(0)
 
 <template>
   <h1>{{ msg }}</h1>
-
+  
+  <h3> Hello w!</h3>
+  <hr>
   <p>
     Recommended IDE setup:
     <a href="https://code.visualstudio.com/" target="_blank">VSCode</a>
