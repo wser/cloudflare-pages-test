@@ -1,7 +1,3 @@
----
-markdown: kramdown
----
-
 # vite app published on cloudflare pages
 
 
